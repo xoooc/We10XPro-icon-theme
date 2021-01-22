@@ -1,5 +1,8 @@
-## We10X Icon Theme
+## We10XPro Icon Theme
 A colorful design icon theme for all linux desktops!
+Redraw the Place icons and the mimes icons.
+
+Froked from https://github.com/yeyushengfan258/We10X-icon-theme
 
 ## Install
 
